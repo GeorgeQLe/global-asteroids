@@ -1,0 +1,19 @@
+# Rust
+rust-macroquad/target/
+
+# Node
+react-canvas/node_modules/
+react-canvas/dist/
+
+# C
+c-raylib/asteroids
+
+# Python
+__pycache__/
+*.pyc
+
+# Go
+go-ebitengine/go.sum
+
+# OS
+.DS_Store
